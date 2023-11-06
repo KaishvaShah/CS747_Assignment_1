@@ -1,0 +1,2 @@
+Lecture slides
+creating venv - https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/
